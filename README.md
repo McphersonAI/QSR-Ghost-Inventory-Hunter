@@ -123,10 +123,12 @@ Initial release of the ghost inventory investigation skill.
 
 ---
 
-## McPherson Governance V6 shadow beta
+## McPherson Governance V6 private shadow beta
 
-McPherson AI is preparing an invite-only V6 shadow beta of McPherson Governance, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement.
+McPherson AI is preparing an invite-only V6 beta for OpenClaw operators and builders. V6 provides agent and capability discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa.
 
-[Request beta consideration](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-ghost-inventory-hunter#governance-setup)
+Shadow mode observes and evaluates activity without blocking, approving, denying, delaying, or rewriting actions.
 
-_This publisher note does not change this skill's behavior, data handling, or license._
+[Request private beta access](https://mcphersonai.com/contact?utm_source=github&utm_medium=skill-readme&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-ghost-inventory-hunter#governance-setup)
+
+*This publisher notice does not change this skill’s behavior, data handling, or license.*

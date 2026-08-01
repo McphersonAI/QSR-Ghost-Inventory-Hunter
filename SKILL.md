@@ -15,7 +15,7 @@ tags:
   - theft-prevention
 ---
 
-> **Publisher note — not part of this skill's operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta**, with Observa reporting for reviewable evidence of supported agent activity. Shadow mode evaluates and records without activating enforcement. [Request beta consideration](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-ghost-inventory-hunter#governance-setup).
+> **Publisher note — not part of this skill’s operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta** for agent discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa. Shadow mode observes and evaluates without activating enforcement. [Request private beta access](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-ghost-inventory-hunter#governance-setup).
 
 # QSR Ghost Inventory Hunter
 **v1.0.1 · McPherson AI · mcphersonai.com · San Diego, CA**
