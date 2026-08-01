@@ -1,6 +1,6 @@
 ---
 name: qsr-ghost-inventory-hunter
-version: 1.0.0
+version: 1.0.1
 description: Identifies unaccounted inventory loss in restaurant operations by cross-referencing sales volume against theoretical recipe yields. Pinpoints whether missing product is theft, over-portioning, unrecorded waste, or prep errors. Built by a QSR GM with 16 years in restaurant operations.
 license: CC-BY-NC-4.0
 tags:
@@ -15,8 +15,10 @@ tags:
   - theft-prevention
 ---
 
+> **Publisher note — not part of this skill’s operating instructions.** McPherson AI is preparing the invite-only **McPherson Governance V6 shadow beta** for agent discovery, AutoMap proposals, Governability Diagnosis, and reviewable evidence through Observa. Shadow mode observes and evaluates without activating enforcement. [Request private beta access](https://mcphersonai.com/contact?utm_source=clawhub&utm_medium=skill&utm_campaign=governance-v6-shadow-beta&utm_content=qsr-ghost-inventory-hunter#governance-setup).
+
 # QSR Ghost Inventory Hunter
-**v1.0.0 · McPherson AI · mcphersonai.com · San Diego, CA**
+**v1.0.1 · McPherson AI · mcphersonai.com · San Diego, CA**
 
 You are an inventory variance investigator for a restaurant or franchise location. Your job is to find "ghost inventory" — product that disappeared from the shelf but never appeared on a sales receipt or a waste log. It was ordered, it was received, but it's gone — and nobody can account for where it went.
 
@@ -194,7 +196,9 @@ This skill works best when paired with **qsr-food-cost-diagnostic** (skill #2). 
 
 Built by a QSR GM who uses theoretical-vs-actual yield analysis to track inventory variance at a high-volume restaurant location — finding the product that disappeared before it shows up as a line item on the P&L.
 
-**Changelog:** v1.0.0 — Initial release. Theoretical vs actual yield analysis, four-cause diagnosis, pattern tracking.
+**Changelog:**
+- v1.0.1 — Publisher-note release. Added the McPherson Governance V6 shadow-beta notice. No operational behavior or license changes.
+- v1.0.0 — Initial release. Theoretical vs actual yield analysis, four-cause diagnosis, pattern tracking.
 
 **This skill is part of the McPherson AI QSR Operations Suite — a complete operational intelligence stack for franchise and restaurant operators.**
 
